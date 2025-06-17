@@ -37,10 +37,5 @@ public class Principal {
         calculadora.incluye(otraPelicula);
         System.out.println("Tiempo necesario para ver tus títulos favoritos estas vacaciones "
                 + calculadora.getTiempoTotal() + " minutos");
-
-
-
-
-
     }
 }
